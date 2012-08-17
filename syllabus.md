@@ -1,16 +1,38 @@
 % Religious Pluralism and the American State
-% Brandeis University
-% Fall 2012
+% Lincoln Mullen
+% Brandeis University, Fall 2012
 
-Lincoln Mullen
-lmullen@brandeis.edu
-office hours: 
-office: Rabb 358
-mailbox: History Department, Olin-Sang 20??
-office phone: ???
+![Thomas Jefferson's gravestone and epitaph](jefferson-grave.jpg)
 
-class meeting time: ??
-classroom: ??
+## Course Details
+
+---------------     --------------------------------------------
+course number:      UWS 1A-1
+
+meeting time:       Mondays, Wednesdays, 9:00--9:50 a.m. (see calendar)
+
+class location:     TBA
+
+course website:     <http://lincolnmullen.com/teaching/uws/>
+
+instructor:         Lincoln Mullen
+
+e-mail:             <lmullen@brandeis.edu>
+
+office:             Rabb 358
+
+office hours:       after class, 10 a.m. -- 12 p.m. and by 
+                    appointment; virtual office hours TBA
+
+phone:              781-330-0171
+
+instructor web:     <http://lincolnmullen.com>
+
+Twitter:            [@lincolnmullen](https://twitter.com/lincolnmullen)
+
+mailbox:            History Department, Olin-Sang, second floor
+---------------     --------------------------------------------
+
 
 ## Course description
 
@@ -30,23 +52,35 @@ about a religious conflict, a second interacting with other historians'
 interpretations, and a third based on original research into religious
 conflict.
 
-## Learning Outcomes
+## Learning goals
 
-At the end of this course, you should be able to
+After taking this course, you will be able to
+
++   write argumentative essays based on your reading in primary and
+    secondary sources,
++   revise your own writing,
++   explain the history of religious pluralism and religious liberty in
+    the United States,
++   read and interpret a primary source as a historian, and
++   understand and evaluate the arguments and interpretations of a work
+    of history.
 
 ## Texts
 
-The following books are required:
+You will read a number of primary sources, which will be available in a
+course pack or on the website. You can purchase the course pack
+at cost in class, and it will be available on the website as well.
+
+The following books on writing are required:
 
 > Williams, Joseph M., and Gregory G. Colomb. *Style: Lessons in Clarity
 > and Grace*. 10th ed. Boston: Longman, 2010. ISBN: 0205747469. \*
 
-> *Write Now!* (a collection of Brandeis student essays) \*
+> Parfitt, Matthew. *Writing in Response*. 1st ed. Boston: Beford/St.
+Martin's, 2011. ISBN: 0312403933. \*
 
-> Strunk, William, and John Austin Matzko. “William Strunk’s *Elements
-> of Style* for Students of History,” 2008. (LATTE)
-
-The following books are recommended, but not required:
+We will read most of the following books by historians. I recommend that
+you purchase them, but you can obtain them by other means:
 
 > Green, Steven. *The Second Disestablishment: Church and State in
 > Nineteenth-Century America*. New York: Oxford University Press, 2010.
@@ -59,89 +93,96 @@ The following books are recommended, but not required:
 > Sehat, David. *The Myth of American Religious Freedom*. New York:
 > Oxford University Press, 2011. ISBN: 0195388763. \* †
 
+We will use the following style guide as a reference. It is available on
+the course website:
+
+> Strunk, William, and John Austin Matzko. “William Strunk’s *Elements
+> of Style* for Students of History.” 2008.
+
+A good dictionary is invaluable. The *AHD* is available for purchase,
+but it is optional:
+
 > *The American Heritage Dictionary of the English Language*. 5th ed.
 > Boston: Houghton Mifflin Harcourt, 2011. ISBN: 0547041012. \* 
-
-All other reading assignments will be available on LATTE.
 
 \*	*Available for purchase in the bookstore, and elsewhere.*  
 †	*On reserve in the Goldfarb Library.*
 
 ## The intellectual work of the course
 
-General description
+The intellectual work of this course is centered on understanding the
+problem of religious pluralism and religious liberty as it relates to
+the American state. You will engage that intellectual problem in two
+ways. 
 
-This class will have you produce a number of writing assignments, as
-well as incidental assignments such as pre-writing assignments and
-letters to your peers.
+First, you will *read* documents throughout American history
+written by people who worked through the questions of religious liberty
+and religious pluralism. You will also read the works of
+historians who have read the same documents and who offer 
+interpretations of the past.
 
-### Close reading assignment
+Second, you will *write* your own interpretative essays grounded in your
+reading of primary and secondary sources. Specifically, you will
+complete three major writing assignments and accompanying pre-draft
+assignments:
 
-5-6 pages, 2-3 weeks goal is to interpret a historical text
+1. a close-reading essay, a 5--6 page essay interpreting a historical
+   text;
 
-pre-draft assignments: find a hotspot and summarize, annotate the text
-markup with definitions
+2. a lens essay, a 7--8 page essay applying and engaging with a
+   historian's argument about primary texts; and
 
-writing lessons: citations
+3. a research essay, a 10 page essay based on your own research into
+   primary and secondary texts.
 
-### Lens assignment
+You will also complete a number of other requirements:
 
-7-8 pages, 3-4 weeks. goal is to apply someone else's ideas.
++   a portfolio, which collects your work for the course into one
+    package, for you to assess how you have developed as a writer;
 
-pre-draft assignments: definition of pluralism
++   three 20-minute conferences with me, one for each of your essays;
 
-writing lessons:
++   peer-review workshops, where you will help your colleagues in the
+    class develop their writing; and
 
-### Research assignment
++   a number of practice writing assignments in-class or online (which
+    will count towards your participation grade).
 
-10 pages, 4-5 weeks goal is especially to think through the process of
-research and argumentation.
+I will give you detailed instruction and help with all assignments in
+class and in handouts.
 
-pre-draft assignments: research proposal. annotated bibliography, source
-outline
+## Evaluation
 
-writing lessons: research process. argumentation.
+I will evaluate your intellectual work in the following categories:
 
-### Portfolio review
+------------------------        --------
+assignment                      weight
+------------------------        --------
+close-reading essay             15%
 
-Work will be collected into a bundle, for you to critically assess how
-you have developed as a writer.
+lens essay                      20%
 
-### Other requirements
+research essay essay            30%
 
--   Must attend 3 twenty minute conferences
--   Peer review workshops
+pre-draft assignments           15% 
 
-### Evaluation
+portfolio                        5%
 
-Close reading 20% Lens essay 25% Research essay 30% Pre-draft
-assignments 10% Portfolio 5% Participation 10%
-
-## Schedule and Assignments
-
-CALENDAR
-
-1.  getting started
-
-2.  close reading
-
-3.  lens analysis
-
-4.  research essay
-
-5.  wrap up and portfolio
+participation                   15%
+------------------------        --------
 
 ## Additional information
 
-Please see the attached policies sheet.
+Please see the included schedule for the calendar of readings and the
+due dates for assignments. Please see the attached policies sheet for
+other duties and expectations.
 
-Please see the attached resources sheet for additional help.
+*Acknowledgments:* This syllabus borrows ideas, assignments, wording,
+and texts from Josh Cracraft, Kevin Doyle, and John Matzko.
 
-Acknowledgements: Borrowed from ideas, assignments, wording, texts from
-Kevin Doyle, John Matzko, Josh Cracraft UWS book.
-
-Copyright and license: This syllabus and all assignments are (C)
+*Copyright and license:* This syllabus and all assignments are &copy;
 copyrighted by Lincoln Mullen, 2012. They are released under a Creative
-Commons Attribution 3.0 United States (CC BY 3.0)
+Commons Attribution 3.0 United States (CC BY 3.0) license
 <<http://creativecommons.org/licenses/by/3.0/us/>>. You are free to use
-or modify this syllabus for any purpose, provided that you attribute it.
+or modify this syllabus for any purpose, provided that you attribute it
+to the author, preferably at the course website listed above.
