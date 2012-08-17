@@ -13,7 +13,7 @@ meeting time:       Mondays, Wednesdays, 9:00--9:50 a.m. (see calendar)
 
 class location:     TBA
 
-course website:     <http://lincolnmullen.com/teaching/uws/>
+course website:     <http://lincolnmullen.com/courses/uws.2012-fall/>
 
 instructor:         Lincoln Mullen
 
