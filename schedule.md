@@ -182,9 +182,7 @@ October 31 (W)
 
 # Unit 3: Research essay
 
-November 5 (M) No class for jury duty
-
-November 7 (W)
+November 5 (M)
 
 :   World's Parliament of Religions
 
@@ -196,7 +194,7 @@ November 7 (W)
 
 :   *reading:*  Williams and Colomb, ch. 6
 
-November 8 (Th, makeup)
+November 7 (W)
 
 :   Creation and evolution
 
