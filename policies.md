@@ -13,6 +13,15 @@ which are not listed on the syllabus. These assignments will be
 announced in class, and they will count towards your participation
 grade.
 
+Students must satisfactorily complete all assignments (including
+participation assignments) in order to pass this course.
+
+## Academic integrity
+
+You are expected to be familiar with and to follow Brandeis University's
+policies on academic integrity
+<<http://www.brandeis.edu/studentlife/sdc/ai>\>.
+
 ## Course website and privacy
 
 You will have to make an account on the course website for your online
@@ -111,12 +120,6 @@ On certain days, which I will announce in advance, you may use laptops
 or tablets in class. For all other days, please bring the course
 readings in paper copy, and please stow all electronic devices by the
 start of class. Cell phones are never permitted.
-
-## Academic integrity
-
-You are expected to be familiar with and to follow Brandeis University's
-policies on academic integrity
-<<http://www.brandeis.edu/studentlife/sdc/ai>\>.
 
 ## Disabilities
 

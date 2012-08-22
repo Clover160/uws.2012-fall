@@ -27,55 +27,10 @@ After taking this course, you will be able to
 
 +   write argumentative essays based on your reading in primary and
     secondary sources,
-+   revise your own writing,
 +   explain the history of religious pluralism and religious liberty in
-    the United States,
-+   read and interpret a primary source as a historian, and
-+   understand and evaluate the arguments and interpretations of a work
-    of history.
-
-## Texts
-
-You will read a number of primary sources, which will be available in a
-course pack or on the website. You can purchase the course pack
-at cost in class, and it will be available on the website as well.
-
-The following books on writing are required:
-
-> Williams, Joseph M., and Gregory G. Colomb. *Style: Lessons in Clarity
-> and Grace*. 10th ed. Boston: Longman, 2010. ISBN: 0205747469. \*
-
-> Parfitt, Matthew. *Writing in Response*. 1st ed. Boston: Beford/St.
-Martin's, 2011. ISBN: 0312403933. \*
-
-We will read most of the following books by historians. I recommend that
-you purchase them, but you can obtain them by other means:
-
-> Green, Steven. *The Second Disestablishment: Church and State in
-> Nineteenth-Century America*. New York: Oxford University Press, 2010.
-> ISBN: 0195399676. \* †
-
-> Hutchison, William R. *Religious Pluralism in America: The Contentious
-> History of a Founding Ideal*. New Haven: Yale University Press, 2003.
-> ISBN: 0300105169. \* †
-
-> Sehat, David. *The Myth of American Religious Freedom*. New York:
-> Oxford University Press, 2011. ISBN: 0195388763. \* †
-
-We will use the following style guide as a reference. It is available on
-the course website:
-
-> Strunk, William, and John Austin Matzko. “William Strunk’s *Elements
-> of Style* for Students of History.” 2008.
-
-A good dictionary is invaluable. The *AHD* is available for purchase,
-but it is optional:
-
-> *The American Heritage Dictionary of the English Language*. 5th ed.
-> Boston: Houghton Mifflin Harcourt, 2011. ISBN: 0547041012. \* 
-
-\*	*Available for purchase in the bookstore, and elsewhere.* 
-†	*On reserve in the Goldfarb Library.*
+    the United States, and
++   interpret primary sources as a historian and evaluate the
+    interpretations of secondary works.
 
 ## The intellectual work of the course
 
@@ -139,6 +94,49 @@ portfolio                        5%
 
 participation                   15%
 ------------------------        --------
+
+## Texts
+
+You will read a number of primary sources, which will be available in a
+course pack or on the website. You can purchase the course pack
+at cost in class, and it will be available on the website as well.
+
+The following books on writing are required:
+
+> Williams, Joseph M., and Gregory G. Colomb. *Style: Lessons in Clarity
+> and Grace*. 10th ed. Boston: Longman, 2010. ISBN: 0205747469. \*
+
+> Parfitt, Matthew. *Writing in Response*. 1st ed. Boston: Beford/St.
+Martin's, 2011. ISBN: 0312403933. \*
+
+We will read most of the following books by historians. I recommend that
+you purchase them, but you can obtain them by other means:
+
+> Green, Steven. *The Second Disestablishment: Church and State in
+> Nineteenth-Century America*. New York: Oxford University Press, 2010.
+> ISBN: 0195399676. \* †
+
+> Hutchison, William R. *Religious Pluralism in America: The Contentious
+> History of a Founding Ideal*. New Haven: Yale University Press, 2003.
+> ISBN: 0300105169. \* †
+
+> Sehat, David. *The Myth of American Religious Freedom*. New York:
+> Oxford University Press, 2011. ISBN: 0195388763. \* †
+
+We will use the following style guide as a reference. It is available on
+the course website:
+
+> Strunk, William, and John Austin Matzko. “William Strunk’s *Elements
+> of Style* for Students of History.” 2008.
+
+A good dictionary is invaluable. The *AHD* is available for purchase,
+but it is optional:
+
+> *The American Heritage Dictionary of the English Language*. 5th ed.
+> Boston: Houghton Mifflin Harcourt, 2011. ISBN: 0547041012. \* 
+
+\*	*Available for purchase in the bookstore, and elsewhere.* 
+†	*On reserve in the Goldfarb Library.*
 
 ## Additional information
 
