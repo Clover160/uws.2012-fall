@@ -5,15 +5,26 @@
 
 # Unit 1: Close-reading essay
 
-September 3 (M) No class for Labor Day
-
-September 5 (W)
+August 30 (Th)
 
 :   Minority religions and religious liberty
 
 :   *reading (in class):* Touro Synagogue (Newport, Rhode Island) to
     George Washington, August 17, 1790; George Washington to Touro
     Synagogue, 1790 (CP 1)
+
+September 3 (M) No class for Labor Day
+
+September 5 (W)
+
+:   Introduction to university writing
+
+:   *reading:* Hutchison, introduction, ch. 1
+
+:   *reading:* Parfitt, introduction, ch. 1
+
+:   *due:* 1 page on ideas of religious pluralism
+
 
 September 10 (M)
 
@@ -31,9 +42,8 @@ September 12 (W)
     (CP 3); James Madison, "Memorial and Remonstrance Against Religious
     Assessments" (CP 4) 
 
-:   *reading:* Parfitt, introduction, ch. 1
-
 :   *due:* Annotating a text (1.1)
+
 
 September 17 (M) No class for Rosh Hashanah
 
@@ -79,7 +89,7 @@ October 3 (W)
 
 :   Ideas of pluralism
 
-:   *reading:*  Hutchison, introduction, ch. 1--2
+:   *reading:*  Hutchison, ch. 2
 
 :   *reading:*  Parfitt, ch. 6
 
