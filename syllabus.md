@@ -1,40 +1,9 @@
 % Religious Pluralism and the American State
-% Lincoln Mullen
-% Brandeis University, Fall 2012
+% Lincoln A. Mullen
 
-![Thomas Jefferson's gravestone and epitaph](jefferson-grave.jpg)
+<!--![Thomas Jefferson's gravestone and epitaph](jefferson-grave.jpg)-->
 
-## Course Details
-
----------------     --------------------------------------------
-course number:      UWS 1A-1
-
-meeting time:       Mondays, Wednesdays, 9:00--9:50 a.m. (see calendar)
-
-class location:     TBA
-
-course website:     <http://lincolnmullen.com/courses/uws.2012-fall/>
-
-instructor:         Lincoln Mullen
-
-e-mail:             <lmullen@brandeis.edu>
-
-office:             Rabb 358
-
-office hours:       after class, 10 a.m. -- 12 p.m. and by 
-                    appointment; virtual office hours TBA
-
-phone:              781-330-0171
-
-instructor web:     <http://lincolnmullen.com>
-
-Twitter:            [@lincolnmullen](https://twitter.com/lincolnmullen)
-
-mailbox:            History Department, Olin-Sang, second floor
----------------     --------------------------------------------
-
-
-## Course description
+### Course description
 
 Two of the most pressing questions about American religion and its
 public role are intertwined: how should religions relate to one another,
@@ -105,7 +74,7 @@ but it is optional:
 > *The American Heritage Dictionary of the English Language*. 5th ed.
 > Boston: Houghton Mifflin Harcourt, 2011. ISBN: 0547041012. \* 
 
-\*	*Available for purchase in the bookstore, and elsewhere.*  
+\*	*Available for purchase in the bookstore, and elsewhere.* 
 †	*On reserve in the Goldfarb Library.*
 
 ## The intellectual work of the course
