@@ -37,14 +37,9 @@ After taking this course, you will be able to
 The intellectual work of this course is centered on understanding the
 problem of religious pluralism and religious liberty as it relates to
 the American state. You will engage that intellectual problem in two
-ways. 
-
-First, you will *read* documents throughout American history
+ways. First, you will *read* documents throughout American history
 written by people who worked through the questions of religious liberty
-and religious pluralism. You will also read the works of
-historians who have read the same documents and who offer 
-interpretations of the past.
-
+and religious pluralism, and you will read the works of historians.
 Second, you will *write* your own interpretative essays grounded in your
 reading of primary and secondary sources. Specifically, you will
 complete three major writing assignments and accompanying pre-draft
@@ -59,21 +54,10 @@ assignments:
 3. a research essay, a 10 page essay based on your own research into
    primary and secondary texts.
 
-You will also complete a number of other requirements:
-
-+   a portfolio, which collects your work for the course into one
-    package, for you to assess how you have developed as a writer;
-
-+   three 20-minute conferences with me, one for each of your essays;
-
-+   peer-review workshops, where you will help your colleagues in the
-    class develop their writing; and
-
-+   a number of practice writing assignments in-class or online (which
-    will count towards your participation grade).
-
-I will give you detailed instruction and help with all assignments in
-class and in handouts.
+You will also complete a number of other requirements, including a
+portfolio, three conferences with me, peer-review workshops, and
+practice writing assignments in-class or online (which will count
+towards your participation grade). 
 
 ## Evaluation
 
@@ -97,59 +81,43 @@ participation                   15%
 
 ## Texts
 
-You will read a number of primary sources, which will be available in a
-course pack or on the website. You can purchase the course pack
-at cost in class, and it will be available on the website as well.
+We will use the following books for class: 
 
-The following books on writing are required:
++ Coursepack of primary readings (purchase in class) ‡
 
-> Williams, Joseph M., and Gregory G. Colomb. *Style: Lessons in Clarity
-> and Grace*. 10th ed. Boston: Longman, 2010. ISBN: 0205747469. \*
++ Green, Steven. *The Second Disestablishment: Church and State in
+  Nineteenth-Century America*. New York: Oxford University Press, 2010.
+  ISBN: 0195399676. \* †
 
-> Parfitt, Matthew. *Writing in Response*. 1st ed. Boston: Beford/St.
-Martin's, 2011. ISBN: 0312403933. \*
++ Hutchison, William R. *Religious Pluralism in America: The Contentious
+  History of a Founding Ideal*. New Haven: Yale University Press, 2003.
+  ISBN: 0300105169. \* †
 
-We will read most of the following books by historians. I recommend that
-you purchase them, but you can obtain them by other means:
++ Parfitt, Matthew. *Writing in Response*. 1st ed. Boston: Beford/St.
+  Martin's, 2011. ISBN: 0312403933. \*
 
-> Green, Steven. *The Second Disestablishment: Church and State in
-> Nineteenth-Century America*. New York: Oxford University Press, 2010.
-> ISBN: 0195399676. \* †
++ Sehat, David. *The Myth of American Religious Freedom*. New York:
+  Oxford University Press, 2011. ISBN: 0195388763. \* †
 
-> Hutchison, William R. *Religious Pluralism in America: The Contentious
-> History of a Founding Ideal*. New Haven: Yale University Press, 2003.
-> ISBN: 0300105169. \* †
++ Strunk, William, and John Austin Matzko. “William Strunk’s *Elements
+  of Style* for Students of History.” 2008. ‡
 
-> Sehat, David. *The Myth of American Religious Freedom*. New York:
-> Oxford University Press, 2011. ISBN: 0195388763. \* †
++ Williams, Joseph M., and Gregory G. Colomb. *Style: Lessons in Clarity
+  and Grace*. 10th ed. Boston: Longman, 2010. ISBN: 0205747469. \*
 
-We will use the following style guide as a reference. It is available on
-the course website:
-
-> Strunk, William, and John Austin Matzko. “William Strunk’s *Elements
-> of Style* for Students of History.” 2008.
-
-A good dictionary is invaluable. The *AHD* is available for purchase,
-but it is optional:
-
-> *The American Heritage Dictionary of the English Language*. 5th ed.
-> Boston: Houghton Mifflin Harcourt, 2011. ISBN: 0547041012. \* 
-
-\*	*Available for purchase in the bookstore, and elsewhere.* 
-†	*On reserve in the Goldfarb Library.*
+\* *Available for purchase in the bookstore, and elsewhere.* \ \ †	*On
+reserve in the Goldfarb Library.* \ \ ‡ *On LATTE.*
 
 ## Additional information
 
 Please see the included schedule for the calendar of readings and the
 due dates for assignments. Please see the attached policies sheet for
-other duties and expectations.
-
-*Acknowledgments:* This syllabus borrows ideas, assignments, wording,
-and texts from Josh Cracraft, Kevin Doyle, and John Matzko.
-
-*Copyright and license:* This syllabus and all assignments are &copy;
-copyrighted by Lincoln Mullen, 2012. They are released under a Creative
-Commons Attribution 3.0 United States (CC BY 3.0) license
-<<http://creativecommons.org/licenses/by/3.0/us/>>. You are free to use
-or modify this syllabus for any purpose, provided that you attribute it
-to the author, preferably at the course website listed above.
+other duties and expectations. *Acknowledgments:* This syllabus borrows
+ideas, assignments, wording, and texts from Josh Cracraft, Kevin Doyle,
+and John Matzko. *Copyright and license:* This syllabus and all
+assignments are &copy; copyrighted by Lincoln Mullen, 2012. They are
+released under a Creative Commons Attribution 3.0 United States (CC BY
+3.0) license <<http://creativecommons.org/licenses/by/3.0/us/>>. You are
+free to use or modify this syllabus for any purpose, provided that you
+attribute it to the author, preferably at the course website listed
+above.

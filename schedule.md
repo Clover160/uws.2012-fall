@@ -13,7 +13,7 @@ August 30 (Th)
     George Washington, August 17, 1790; George Washington to Touro
     Synagogue, 1790 (CP 1)
 
-September 3 (M) No class for Labor Day
+\noindent September 3 (M) No class for Labor Day
 
 September 5 (W)
 
@@ -79,8 +79,6 @@ September 24 (M)
 
 :   *due:* First draft of close-reading essay, with cover letter (1.3)
 
-*Conferences to discuss close-reading essay begin*
-  
 September 26 (W) No class for Yom Kippur
 
 October 1 (M) No class for Sukkot
@@ -163,8 +161,6 @@ October 24 (W)
 
 :   *due:* First draft of lens essay, with cover letter (2.3)
    
-*Conferences to discuss lens essay begin*
-
 October 29 (M)
 
 :   Vice
@@ -275,8 +271,6 @@ December 3 (M)
     Vitale* (LATTE)
 
 :   *due:* First draft of research essay, with cover letter (3.4)
-
-*Conferences to discuss lens essay begin*
 
 December 5 (W)
 
