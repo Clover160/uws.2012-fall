@@ -5,19 +5,19 @@
 
 Two of the most pressing questions about American religion and its
 public role are intertwined: how should religions relate to one another,
-and how should religions be related to the state? Students in this class
-will take up these two questions through the historical analysis of
-texts about the interactions of Protestant, Catholic, Jewish, Mormon,
-and Native American religions with one another and with the federal and
-state governments. They will investigate how law has regulated the
-public sphere and the civil square in which religious interactions take
-place, but also how religious actors have driven those interactions. We
-will trace the history of American pluralism, from the fact of diversity
-in eighteenth century to the idea of pluralism in the twenty-first
-century. Students will write three essays: one expositing a document
-about a religious conflict, a second interacting with other historians'
-interpretations, and a third based on original research into religious
-conflict.
+and how should religions relate to the state? In this class you will
+take up these two questions through the historical analysis of texts
+about the interactions of Protestant, Catholic, Jewish, Mormon, and
+Native American religions with one another and with the federal and
+state governments. You will investigate how law has regulated the public
+sphere and the civil square in which religious interactions take place,
+but also how religious actors have driven those interactions. We will
+trace the history of American pluralism, from the fact of diversity in
+eighteenth century to the idea of pluralism in the twenty-first century.
+Because this is a writing seminar, you will write three essays: one
+expositing a document about a religious conflict, a second interacting
+with other historians' interpretations, and a third based on original
+research into religious conflict.
 
 ## Learning goals
 
