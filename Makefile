@@ -37,3 +37,6 @@ coursepack-toc.pdf : coursepack-toc.markdown
 assignment.001.writing-prompt.pdf : assignment.001.writing-prompt.md
 	./vc
 	pandoc -o assignment.001.writing-prompt.pdf assignment.001.writing-prompt.md
+
+upload : religious-pluralism.syllabus.2012-fall.pdf
+	scp religious-pluralism.syllabus.2012-fall.pdf lam:public_html/docs/
