@@ -59,8 +59,6 @@ towards your participation grade).
 
 ## Evaluation
 
-I will evaluate your intellectual work in the following categories:
-
 ------------------------        --------
 assignment                      weight
 ------------------------        --------
@@ -108,14 +106,10 @@ reserve in the Goldfarb Library.* \ \ ‡ *On LATTE.*
 
 ## Additional information
 
-Please see the included schedule for the calendar of readings and the
-due dates for assignments. Please see the attached policies sheet for
-other duties and expectations. *Acknowledgments:* This syllabus borrows
-ideas, assignments, wording, and texts from Josh Cracraft, Kevin Doyle,
-and John Matzko. *Copyright and license:* This syllabus and all
-assignments are &copy; copyrighted by Lincoln Mullen, 2012. They are
-released under a Creative Commons Attribution 3.0 United States (CC BY
-3.0) license <<http://creativecommons.org/licenses/by/3.0/us/>>. You are
-free to use or modify this syllabus for any purpose, provided that you
-attribute it to the author, preferably at the course website listed
-above.
+ *Acknowledgments:* This syllabus borrows ideas, assignments, wording,
+ and texts from Josh Cracraft, Kevin Doyle, Tona Hangen, and John
+ Matzko. *Copyright and license:* This syllabus and all assignments are
+ copyrighted &copy; 2012 Lincoln Mullen and licensed CC-BY 3.0
+ <<http://creativecommons.org/licenses/by/3.0/us/>>. You are free to use
+ or modify this syllabus for any purpose, provided that you attribute it
+ to the author, preferably at the course website listed above.
