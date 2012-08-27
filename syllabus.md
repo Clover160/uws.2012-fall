@@ -1,8 +1,6 @@
 % Religious Pluralism and the American State
 % Lincoln A. Mullen
 
-<!--![Thomas Jefferson's gravestone and epitaph](jefferson-grave.jpg)-->
-
 ### Course description
 
 Two of the most pressing questions about American religion and its
