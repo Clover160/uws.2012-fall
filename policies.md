@@ -96,3 +96,14 @@ start of class. Cell phones are never permitted.
 If you are a student with a documented disability on record at Brandeis
 University and wish to have a reasonable accommodation made for you in
 this class, please speak with me immediately.
+
+## Acknowledgments and license
+
+This syllabus borrows ideas, assignments, wording, and texts from Josh
+Cracraft, Kevin Doyle, Tona Hangen, and John Matzko.
+
+This syllabus and all assignments are copyrighted &copy; 2012 Lincoln
+Mullen and licensed CC-BY 3.0
+<<http://creativecommons.org/licenses/by/3.0/us/>>. You are free to use
+or modify this syllabus for any purpose, provided that you attribute it
+to the author, preferably at the course website listed above.

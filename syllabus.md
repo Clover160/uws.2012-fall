@@ -34,14 +34,12 @@ After taking this course, you will be able to
 
 The intellectual work of this course is centered on understanding the
 problem of religious pluralism and religious liberty as it relates to
-the American state. You will engage that intellectual problem in two
-ways. First, you will *read* documents throughout American history
-written by people who worked through the questions of religious liberty
-and religious pluralism, and you will read the works of historians.
-Second, you will *write* your own interpretative essays grounded in your
-reading of primary and secondary sources. Specifically, you will
-complete three major writing assignments and accompanying pre-draft
-assignments:
+the American state. You will engage that problem in two ways. First, you
+will *read* documents written by people throughout American history who
+worked through the questions of religious liberty and religious
+pluralism, and you will read the works of historians. Second, you will
+*write* three of your own interpretative essays grounded in your reading
+of primary and secondary sources:
 
 1. a close-reading essay, a 5--6 page essay interpreting a historical
    text;
@@ -103,13 +101,3 @@ We will use the following books for class:
 
 \* *Available for purchase in the bookstore, and elsewhere.* \ \ †	*On
 reserve in the Goldfarb Library.* \ \ ‡ *On LATTE.*
-
-## Additional information
-
- *Acknowledgments:* This syllabus borrows ideas, assignments, wording,
- and texts from Josh Cracraft, Kevin Doyle, Tona Hangen, and John
- Matzko. *Copyright and license:* This syllabus and all assignments are
- copyrighted &copy; 2012 Lincoln Mullen and licensed CC-BY 3.0
- <<http://creativecommons.org/licenses/by/3.0/us/>>. You are free to use
- or modify this syllabus for any purpose, provided that you attribute it
- to the author, preferably at the course website listed above.
