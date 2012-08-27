@@ -1,9 +1,9 @@
-all : UWS1A-1.2012-fall.syllabus.pdf coursepack-toc.pdf close-reading-assignment.pdf lens-assignment.pdf research-assignment.pdf
+all : religious-pluralism.syllabus.2012-fall.pdf coursepack-toc.pdf close-reading-assignment.pdf lens-assignment.pdf research-assignment.pdf assignment.001.writing-prompt.pdf
 
 # make the assignments and combine in a PDF
-UWS1A-1.2012-fall.syllabus.pdf : syllabus.pdf schedule.pdf policies.pdf
+religious-pluralism.syllabus.2012-fall.pdf : syllabus.pdf schedule.pdf policies.pdf
 	./vc
-	pdftk syllabus.pdf schedule.pdf policies.pdf cat output UWS1A-1.2012-fall.syllabus.pdf
+	pdftk syllabus.pdf schedule.pdf policies.pdf cat output religious-pluralism.syllabus.2012-fall.pdf
 
 # the three assignments for the course
 close-reading-assignment.pdf : close-reading-assignment.md
@@ -34,4 +34,6 @@ coursepack-toc.pdf : coursepack-toc.markdown
 	./vc
 	pandoc -o coursepack-toc.pdf coursepack-toc.markdown
 
-
+assignment.001.writing-prompt.pdf : assignment.001.writing-prompt.md
+	./vc
+	pandoc -o assignment.001.writing-prompt.pdf assignment.001.writing-prompt.md
