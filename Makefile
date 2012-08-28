@@ -40,3 +40,8 @@ assignment.001.writing-prompt.md.pdf : assignment.001.writing-prompt.md
 
 upload : religious-pluralism.syllabus.2012-fall.pdf
 	scp religious-pluralism.syllabus.2012-fall.pdf lam:public_html/docs/
+
+clean:
+	rm syllabus.md.pdf schedule.md.pdf policies.md.pdf religious-pluralism.syllabus.2012-fall.pdf
+
+rebuild : clean all
