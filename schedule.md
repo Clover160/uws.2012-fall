@@ -101,7 +101,7 @@ October 9 (Tu, Brandeis Monday)
 
 :   *reading:*  Sehat, ch. 3; Hutchison, ch. 3; Green, ch. 3
 
-:   *due:* Final draft of close-reading essay, with cover letter (1.5
+:   *due:* Final draft of close-reading essay, with cover letter (1.5)
     
 # Unit 2: Lens essay
 
