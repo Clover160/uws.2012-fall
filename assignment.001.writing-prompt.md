@@ -16,8 +16,7 @@ questions.
     their request? How do you know?
 #.  What accounts for the similarity in wording between the two letters?
 #.  What kinds of religions should receive religious liberty? 
-#.  What is the role of the state in religious liberty in these
-    documents?
+#.  What role does the state have in providing religious liberty?
 
 This assignment is ungraded. What you write will let me know where
 everyone is beginning iIt will n thinking about the history of religious
