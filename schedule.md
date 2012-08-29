@@ -21,7 +21,7 @@ September 5 (W)
 
 :   *reading:* Hutchison, introduction, ch. 1
 
-:   *reading:* Parfitt, introduction, ch. 1
+:   *reading:* Parfitt, introduction, ch. 1; Williams and Colomb, ch. 1
 
 
 September 10 (M)
@@ -30,7 +30,7 @@ September 10 (M)
 
 :   *reading*: John Leland, *The Rights of Conscience Inalienable* (CP 2)
 
-:   *reading*: Williams and Colomb, ch. 1--2
+:   *reading*: Williams and Colomb, ch. 2
 
 September 12 (W)
 
