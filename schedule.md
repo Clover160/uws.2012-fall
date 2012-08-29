@@ -23,8 +23,6 @@ September 5 (W)
 
 :   *reading:* Parfitt, introduction, ch. 1
 
-:   *due:* 1 page on ideas of religious pluralism
-
 
 September 10 (M)
 
