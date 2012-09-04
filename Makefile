@@ -1,22 +1,8 @@
-all : religious-pluralism.syllabus.2012-fall.pdf coursepack-toc.md.pdf close-reading-assignment.md.pdf lens-assignment.md.pdf research-assignment.md.pdf assignment.001.writing-prompt.md.pdf
-
-# make the assignments and combine in a PDF
+all : religious-pluralism.syllabus.2012-fall.pdf coursepack-toc.md.pdf 
+	
 religious-pluralism.syllabus.2012-fall.pdf : syllabus.md.pdf schedule.md.pdf policies.md.pdf
 	./vc
 	pdftk syllabus.md.pdf schedule.md.pdf policies.md.pdf cat output religious-pluralism.syllabus.2012-fall.pdf
-
-# the three assignments for the course
-close-reading-assignment.md.pdf : close-reading-assignment.md
-	./vc
-	pandoc --latex-engine pdflatex --bibliography /Users/lmullen/bib/history.bib --csl=chicago-mullen.csl -o close-reading-assignment.md.pdf close-reading-assignment.md
-
-lens-assignment.md.pdf : lens-assignment.md
-	./vc
-	pandoc --latex-engine pdflatex --bibliography /Users/lmullen/bib/history.bib --csl=chicago-mullen.csl -o lens-assignment.md.pdf lens-assignment.md
-
-research-assignment.md.pdf : research-assignment.md
-	./vc
-	pandoc --latex-engine pdflatex --bibliography /Users/lmullen/bib/history.bib --csl=chicago-mullen.csl -o research-assignment.md.pdf research-assignment.md
 
 policies.md.pdf : policies.md
 	./vc
@@ -33,10 +19,6 @@ schedule.md.pdf : schedule.md
 coursepack-toc.md.pdf : coursepack-toc.markdown
 	./vc
 	pandoc -o coursepack-toc.md.pdf coursepack-toc.markdown
-
-assignment.001.writing-prompt.md.pdf : assignment.001.writing-prompt.md
-	./vc
-	pandoc -o assignment.001.writing-prompt.md.pdf assignment.001.writing-prompt.md
 
 upload : religious-pluralism.syllabus.2012-fall.pdf
 	scp religious-pluralism.syllabus.2012-fall.pdf lam:public_html/docs/
